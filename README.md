@@ -21,4 +21,4 @@ Setup instructions will go here once the project is scaffolded.
 
 ## License
 
-Not yet chosen.
+MIT License
