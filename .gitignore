@@ -1,0 +1,8 @@
+# Local editor/tooling config
+.commandcode/
+
+# macOS
+.DS_Store
+
+# Dependencies
+node_modules/
